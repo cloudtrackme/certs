@@ -1,0 +1,26 @@
+{
+  "certId": "3baed3b1-62d2-4f7b-8700-17e20be6c300",
+  "hash": {
+    "mp3_sha256": "6e98710b62523a22d4005ce87db00b5b7243a8caaee216e4d72ed2602f62bfbf",
+    "wav_sha256": "1c6e8eb123418934ef1e3add158ac3415244d5638580e2ff37d761ebaf7a053c"
+  },
+  "issuer": "CloudTrack",
+  "status": "valid",
+  "storage": {
+    "fileKey": "users/43/projects/81/releases/e1bc84b9-ec35-45b2-8a00-a24c78eb9641.mp3"
+  },
+  "timestamps": {
+    "issuedAt": "2025-09-25T16:55:38Z",
+    "releasedAt": "2025-09-25T16:55:37Z",
+    "uploadedAt": "2025-09-25T16:55:29Z"
+  },
+  "track": {
+    "artistName": "",
+    "title": "Coding Atmosphere",
+    "userId": 43,
+    "uuid": "e1bc84b9-ec35-45b2-8a00-a24c78eb9641"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/3baed3b1-62d2-4f7b-8700-17e20be6c300"
+  }
+}
