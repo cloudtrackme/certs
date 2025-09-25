@@ -1,7 +1,7 @@
 # certs
 Public repository for CloudTrack.Me Release Certificates (JSON &amp; PDF proofs of music releases)
 
-# CloudTrack Release Certificates
+# CloudTrack.Me Release Certificates
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This repository is the **public proof store** for all music releases on [CloudTrack.me](https://cloudtrack.me).
