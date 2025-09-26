@@ -1,0 +1,34 @@
+{
+  "certId": "3bd026b3-288e-4d6b-b5c2-687e85a39111",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "3bd026b3-288e-4d6b-b5c2-687e85a39111",
+    "title": "Enjoy feel - Music instrument",
+    "artistName": "",
+    "userId": 47
+  },
+  "hash": {
+    "wav_sha256": "8aa223b01d520f5f7bb776ffb4c6e6310da3161046e59f5e532a701515dca870",
+    "mp3_sha256": "d0a5f7ac2ea27c672a502301bb564969b0509fabdf4608d9ad1052731bf0c37d"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-26T05:12:13Z",
+    "releasedAt": "2025-09-26T05:12:22Z",
+    "issuedAt": "2025-09-26T05:12:22Z"
+  },
+  "storage": {
+    "fileKey": "users/47/projects/84/releases/3bd026b3-288e-4d6b-b5c2-687e85a39111.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/3bd026b3-288e-4d6b-b5c2-687e85a39111",
+    "github": {
+      "path": "2025/09/3bd026b3-288e-4d6b-b5c2-687e85a39111.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Pvqwt2oHDJQ/8PZzfX2busV9g/BYjo7rJEqnw5Md0hOd8oX1ll62tMe00dYLQ2iYINNY1Njtwp8oGwFU9K8zZyJAnHwVvZ0IcxDDQy6Hd4kQ426dRJfcILTQSqA7IzH2KnSGRy9xqYJoVZkcVxeIBlc9UiFveqb2NQSdTAysLe2HktuFZgDiZX9Oxiz4ROzowCpklcPbGpTr1n4gdYl612BYevCg8KUq94vOWhLk7gVUE7k/Zqv5pCApHhV7gUa+RwPHVq25c7WniXXCZY02jfByKaY2JDKyhmhOcFNIFWYVjRsj/kIi6gVFBLUA0cW2GpS5dv2/8a8ASOyFYAMLZw=="
+  },
+  "status": "valid"
+}
