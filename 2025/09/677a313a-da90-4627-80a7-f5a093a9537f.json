@@ -1,0 +1,34 @@
+{
+  "certId": "677a313a-da90-4627-80a7-f5a093a9537f",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "677a313a-da90-4627-80a7-f5a093a9537f",
+    "title": "Omega 528 Hz",
+    "artistName": "",
+    "userId": 43
+  },
+  "hash": {
+    "wav_sha256": "c44bca8eb7224ffd6cbedabbeb46c9608bddb07d7088cc1c42b0a5edd16bc277",
+    "mp3_sha256": "aa93d4fee9f283136cc986c10a90c96326d615c37b1655a9650fd879d77521d2"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-26T17:13:15Z",
+    "releasedAt": "2025-09-26T17:13:28Z",
+    "issuedAt": "2025-09-26T17:13:29Z"
+  },
+  "storage": {
+    "fileKey": "users/43/projects/86/releases/677a313a-da90-4627-80a7-f5a093a9537f.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/677a313a-da90-4627-80a7-f5a093a9537f",
+    "github": {
+      "path": "2025/09/677a313a-da90-4627-80a7-f5a093a9537f.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "P21HhsKAW/mXTFyGe2wjPemgtSNkdAjo8p2rIb1FVT7aO2dTWcA0LxhpCEINUD+/w8lapBhlEIkkqSeAyk2moaTreKEXWDTJpG/4DFJmQdJul+Ce8FY81qT48rD3F/300leBnLwrISEhvx7V87fP+t45pMYmcU0OJrg/I+0Q7lFIgH1rScSAARmk1KqGWvMn76DO7/3U6jzmO33zwZsSOchDCLxSkNPtQQ+BF/qMeBxlrZIKu+TzdGfAVbTAhPGCJt3i5+O2wyz7DT3YPRg8CROQcS3EIbDFXOEg9s+S2rzppfrr6f4rGfxh+hvgsBDmICDtzESKbGotBpxRfd0emQ=="
+  },
+  "status": "valid"
+}
