@@ -1,0 +1,34 @@
+{
+  "certId": "7b1ade92-9bb7-4462-8376-ba3f5ccc0ec1",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "7b1ade92-9bb7-4462-8376-ba3f5ccc0ec1",
+    "title": "Act of love - Music Instrument",
+    "artistName": "",
+    "userId": 47
+  },
+  "hash": {
+    "wav_sha256": "afcb5404f3954665fc34255694781abedba23ff670db0e86e228b46e5c5ef7fb",
+    "mp3_sha256": "513b0cf9e0800e8bd4f46883490d9514fe2c88cbd9abaa7ec6a7b57057622ef8"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-26T05:36:13Z",
+    "releasedAt": "2025-09-26T05:36:19Z",
+    "issuedAt": "2025-09-26T05:36:19Z"
+  },
+  "storage": {
+    "fileKey": "users/47/projects/85/releases/7b1ade92-9bb7-4462-8376-ba3f5ccc0ec1.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/7b1ade92-9bb7-4462-8376-ba3f5ccc0ec1",
+    "github": {
+      "path": "2025/09/7b1ade92-9bb7-4462-8376-ba3f5ccc0ec1.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "huRagtQDARLPiJq2ZAsPYoHS47EAoRjw+/LPJNn+sWrdrVKBCbSjJT+n8KYgkybTCQGen131Ea5VtiRiDYSxpRiwijEaarNAMTumLn60xmOuCaQQJiUtsyK3fl3JGHZxk+LecRs9a1J1LZBPspU+CjrUNV4839S5QG1iz57bNvxdajZ1ni8tKnfykOyPwfydv897MhIN/f7iUfNsbiFFZ8c1J9BsAnhmvHVr5FEtL0Z7yxUtlsQKJs4l9F6Ug+zkVFRiv/4ZiFsxEoVgvMX93dMGkvCSx9tIOw2FqsqDzjVMaUXZupk0KWJamKLbSIDAuApcQ32wMxBc+ftaT1tRww=="
+  },
+  "status": "valid"
+}
