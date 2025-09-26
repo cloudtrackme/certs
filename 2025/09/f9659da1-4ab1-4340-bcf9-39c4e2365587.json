@@ -1,0 +1,34 @@
+{
+  "certId": "f9659da1-4ab1-4340-bcf9-39c4e2365587",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "f9659da1-4ab1-4340-bcf9-39c4e2365587",
+    "title": "Initial Rock",
+    "artistName": "",
+    "userId": 38
+  },
+  "hash": {
+    "wav_sha256": "008ccfb4af16a83899d6767a41858b971935745b18241182fb358c3ec458b7d9",
+    "mp3_sha256": "e0ddc6f2fdf7947e4168e9d5387c070ccece0a7c0f1a57c40ac9c2167968a037"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-26T09:44:02Z",
+    "releasedAt": "2025-09-26T09:44:10Z",
+    "issuedAt": "2025-09-26T09:44:10Z"
+  },
+  "storage": {
+    "fileKey": "users/38/projects/68/releases/f9659da1-4ab1-4340-bcf9-39c4e2365587.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/f9659da1-4ab1-4340-bcf9-39c4e2365587",
+    "github": {
+      "path": "2025/09/f9659da1-4ab1-4340-bcf9-39c4e2365587.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "E9Yusekg+3Tkr8mMsz16v9ZcUrwO/N0JhOd8ATaq22kfsztmVcNkaosz7YJesraZtIX3vDQH/vPggcouRieMNH8kQqEG8d1E45WVztS6v/mpjx95XbJ+rKlm9o0NrknVWTggzEySrKzw4U82mkPtjHT+e1oR2H7MIngJ8G4TOu+a9omXQ1G1YdAWgqN4w+jwOC+y3FWQlLdGFD7VsF1fit4SvF/9srwmAW+DgiF96zqhBA2gO/36X6gvrwhCY8FH0jbDMd2LFHPVPV51pZMB9KKrPsCXMBV8v62Fto4OA6Wm225N/NO/4pQD1kpEY+7Df9PW2vQIEO+NdnSptPaqhw=="
+  },
+  "status": "valid"
+}
