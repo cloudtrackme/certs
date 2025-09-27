@@ -1,0 +1,34 @@
+{
+  "certId": "9c771b82-7ec9-492f-b9ee-31c5c655b29a",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "9c771b82-7ec9-492f-b9ee-31c5c655b29a",
+    "title": "ป",
+    "artistName": "",
+    "userId": 43
+  },
+  "hash": {
+    "wav_sha256": "c44bca8eb7224ffd6cbedabbeb46c9608bddb07d7088cc1c42b0a5edd16bc277",
+    "mp3_sha256": "aa93d4fee9f283136cc986c10a90c96326d615c37b1655a9650fd879d77521d2"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-27T08:58:09Z",
+    "releasedAt": "2025-09-27T08:58:23Z",
+    "issuedAt": "2025-09-27T08:58:23Z"
+  },
+  "storage": {
+    "fileKey": "users/43/projects/89/releases/9c771b82-7ec9-492f-b9ee-31c5c655b29a.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/9c771b82-7ec9-492f-b9ee-31c5c655b29a",
+    "github": {
+      "path": "2025/09/9c771b82-7ec9-492f-b9ee-31c5c655b29a.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "dgP/mK72bn5gjhN9VhvLnLcyKHyv96FNuLUrOyaek3eydzAwM04KQGBfFhm5a5mc66x+DVeCoyyDoPRLn0086YcZytpr99Ciffzm9sGHYPDIKd02YfGPLRGBaH3IzOtJ97H7gF6rZ1L9Hu8A5uPajstCyWthGl+Za0PJoPBHnqLFTwaM8S3m2p2tb6GxzH/6RvjLJ1jzZmZOOziOSBe0jZP0tIyES+MoKypL/oce/NYhjqwJY7s0/Vy/8LRl0P3J19jLlopTL7L+HV3iwxkitHvwL6KzN8tr1MOrPutgycfIAVYXvjk7TSBMmfmyqEbI60w3KY13asWM7u08HpDcQA=="
+  },
+  "status": "valid"
+}
