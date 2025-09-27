@@ -1,0 +1,34 @@
+{
+  "certId": "460371ae-db06-4da2-84b6-b6cd32f199d1",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "460371ae-db06-4da2-84b6-b6cd32f199d1",
+    "title": "test123",
+    "artistName": "Takeshi",
+    "userId": 42
+  },
+  "hash": {
+    "wav_sha256": "b6d93b95711fbd6fcfb7411a32176d8273bf808e6fb8b8759038dfe65fa62c14",
+    "mp3_sha256": "cc93e226a21a8623b9f1a7a4b99fd41432746170bdad8df842a9ae36ed2c7249"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-27T22:35:35Z",
+    "releasedAt": "2025-09-27T22:35:43Z",
+    "issuedAt": "2025-09-27T22:35:43Z"
+  },
+  "storage": {
+    "fileKey": "users/42/projects/94/releases/460371ae-db06-4da2-84b6-b6cd32f199d1.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/460371ae-db06-4da2-84b6-b6cd32f199d1",
+    "github": {
+      "path": "2025/09/460371ae-db06-4da2-84b6-b6cd32f199d1.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "dSHbbFjVrm0KgvyzcWGN/AeU2be5jR/Lwbdi1iirBNl/qStPkcd2JB2VcBekntH07p/gPu0BWbQ6aN0BlsZAZRmhGnMkVHcTEjc16wWeKMkK4oIpetdYT2zmiJqIDxNYS+JwXOmR0kgcdiRohBWnp4SziPcx8Upjk+JsGhU7kkGb86Bu3857Rt8pa7uG3pfSuJiczPqkAvG3W3+FPfImxjbW8T4ShdcP/OeCYv4bTVrhlE7bTv56BLEMEE4WmzGfjxQBgG5k4uZRinGM8GhTeZFIcRCWGEqokz9bOLD/7ta3m2n5LlSU9C6JVFOy7K2I89gbzALyrHVSZ8j1q54Q/Q=="
+  },
+  "status": "valid"
+}
