@@ -1,0 +1,34 @@
+{
+  "certId": "a6136bba-d3dc-49fc-9b59-1895938992c5",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "a6136bba-d3dc-49fc-9b59-1895938992c5",
+    "title": "Initial Rock",
+    "artistName": "Takeshi",
+    "userId": 38
+  },
+  "hash": {
+    "wav_sha256": "b6d93b95711fbd6fcfb7411a32176d8273bf808e6fb8b8759038dfe65fa62c14",
+    "mp3_sha256": "cc93e226a21a8623b9f1a7a4b99fd41432746170bdad8df842a9ae36ed2c7249"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-27T22:30:42Z",
+    "releasedAt": "2025-09-27T22:30:50Z",
+    "issuedAt": "2025-09-27T22:30:50Z"
+  },
+  "storage": {
+    "fileKey": "users/38/projects/68/releases/a6136bba-d3dc-49fc-9b59-1895938992c5.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/a6136bba-d3dc-49fc-9b59-1895938992c5",
+    "github": {
+      "path": "2025/09/a6136bba-d3dc-49fc-9b59-1895938992c5.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "YzjS0Lw6ezg2tC+Bdayz8WN0AnU0NIh7wtv5+YegDfTQzjKe99X00untQ2Wbw6VvyuN1BIRdNmPMGtIUiGfjB30WKcVPLjOyK106ixAzMkeWfUQ3GuQ+tJ0QgqyN8SH3pIZtwE6hjhVlnwm077g1XLLlbsiMnIsgjTwNsN3+sgHNOpbDEiN8SC9fQQQLU2xaUb87uFj0SF60UGG7d97iNzePsCPR/5185w8ak8dNofOH+j6PEp03Cb7nKTaGOGuF71p3zYxOpVYQGxhwrhhU+d+Q0+UVWG8yPP6SCphwMBBdte2tfFzUuSlgDq3ikKsh3YHqd17k7jocWm+gyOPvuA=="
+  },
+  "status": "valid"
+}
