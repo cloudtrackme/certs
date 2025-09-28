@@ -1,0 +1,34 @@
+{
+  "certId": "16185a0f-8f47-4eab-93a5-5300b52cd942",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "16185a0f-8f47-4eab-93a5-5300b52cd942",
+    "title": "บุญบั้งไฟ-พาใจน้องไป Thai song contemporary",
+    "artistName": "",
+    "userId": 47
+  },
+  "hash": {
+    "wav_sha256": "af3a937a708a58835ac9001f8fb915b9fe09cca2750a0d703400ea39bce97cb1",
+    "mp3_sha256": "d8f533a33e3c599fdc35cb33fd249d0c7258a90e7fa60cce120f2848ef11fc09"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-09-28T12:52:04Z",
+    "releasedAt": "2025-09-28T12:52:17Z",
+    "issuedAt": "2025-09-28T12:52:17Z"
+  },
+  "storage": {
+    "fileKey": "users/47/projects/82/releases/16185a0f-8f47-4eab-93a5-5300b52cd942.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/16185a0f-8f47-4eab-93a5-5300b52cd942",
+    "github": {
+      "path": "2025/09/16185a0f-8f47-4eab-93a5-5300b52cd942.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "l51W9UxfZfUtSyWNN+5ZZ2+cx1jtYOilFONNqNGS7rNODtcXz5EMcJKs4aWIMemsmlusUcJxpXN6G+2ZBofDSVPmkSRZ2nQKNUiwGOmtlrLXulnEULmCM1qth0rf2VaTTFmVQVrf3rc9DIUY1AKsQbe/77aHOQFmmUO5WloRpEc4FGz3cwrrNU8w6ccKy4lycgTRZOrjmxCqgUkDfh1XxfL0kFMm8DoMlR/XwEuHIeTTJQQ5MbJ55VpCx3oD9oo4M7GQIlMWQ3vW4LMCM8F8ZOT8J99EBSx/9HMU6sRoxWY09xMOxAvyYxYAGtkAruMZx8bDQh9rRxlWnMRAFnupsw=="
+  },
+  "status": "valid"
+}
