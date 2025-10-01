@@ -1,0 +1,34 @@
+{
+  "certId": "aad2071e-5b5c-4c55-a374-b5caba8a6888",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "aad2071e-5b5c-4c55-a374-b5caba8a6888",
+    "title": "เธอคือปีศาจ",
+    "artistName": "",
+    "userId": 11
+  },
+  "hash": {
+    "wav_sha256": "91381b68f5fdad7ac6a31f303b00a4f464b32157ea229af05cb6891225be454b",
+    "mp3_sha256": "c81eaba0d9b62867f43bdfc2ba1c5b776e43ac4527f9bed5dda7855ecb42d47f"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T10:36:25Z",
+    "releasedAt": "2025-10-01T10:36:36Z",
+    "issuedAt": "2025-10-01T10:36:36Z"
+  },
+  "storage": {
+    "fileKey": "users/11/projects/36/releases/aad2071e-5b5c-4c55-a374-b5caba8a6888.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/aad2071e-5b5c-4c55-a374-b5caba8a6888",
+    "github": {
+      "path": "2025/10/aad2071e-5b5c-4c55-a374-b5caba8a6888.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "JBg88ByMj//xJL/dxmGmHlhd0/2H+mReeN0Xb08v7Xx0GEdASBnYNC4u93I5QAiga2061aEjh0j3zbZ9YUPvLGhnyrpuxGFPpQae6rLD1HzGzEvo59PyUZZpGibCCJzk7bHQsVslsJXRZ63BAPua4uDNbNfxFiEMdW97eKRN2Yq4f79rgKV890dr6EDH5f/Q87eq7eFPgeLJBM1Jb72nTrYSAUr9CalGWhZGlbWzwHvP96ZlBr2mSIkYvLG33MLVfmRy5KE5+FUjmgtGGS0tNfSGvLF0vx4Mq73GF2hF4FyJ1JMNleNdZgO6uH1qteOymVfUbPtrmzjBazJFFnfTLA=="
+  },
+  "status": "valid"
+}
