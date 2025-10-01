@@ -1,0 +1,34 @@
+{
+  "certId": "6c0fa781-76b4-4b8a-a725-f72734e570b4",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "6c0fa781-76b4-4b8a-a725-f72734e570b4",
+    "title": "ลืมเธอไม่ลง",
+    "artistName": "GIgS",
+    "userId": 11
+  },
+  "hash": {
+    "wav_sha256": "cc9f3e7ca3902f541f9e33a579da95a17665d2876749fcf777011bb9085f42c0",
+    "mp3_sha256": "5e841c1c87af4385ff6367e7f2c81a412eaf964a1c1807e07a934e1235c3b674"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T09:47:28Z",
+    "releasedAt": "2025-10-01T09:47:50Z",
+    "issuedAt": "2025-10-01T09:47:50Z"
+  },
+  "storage": {
+    "fileKey": "users/11/projects/43/releases/6c0fa781-76b4-4b8a-a725-f72734e570b4.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/6c0fa781-76b4-4b8a-a725-f72734e570b4",
+    "github": {
+      "path": "2025/10/6c0fa781-76b4-4b8a-a725-f72734e570b4.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "URKMg/UQCNCa8jTPH3CrKxxolF1assc8BxA+AAmrYEQnjn+Ut09t8a8LLL+fZp2IyVTtmq45Fk4P49cmKOwtWa5M+T3AmK03EHgHvczD0Mvl9Vx5Fn9icpbzmZiVGggVUI4u0GM6ZmvayIopRN3FRz7g80IfCn3XU5ylXel/VbuH6tK3cSTguuPRckp7nHdm0SYNsBT39Aoigy7Ch5lLTf2s1N5MaWynzWKlY1YE4qC2SkopzA4xgnNb/JG9efZZ+7HUOQ9Yvi7BIfzX6/adLvIoZqu6bd48jzmUlw+xbkBUw4l5PuW2zPhmScLQMJZeSuresHgxVUMmqPotTrZBXA=="
+  },
+  "status": "valid"
+}
