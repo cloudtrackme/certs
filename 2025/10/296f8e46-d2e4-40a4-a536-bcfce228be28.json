@@ -1,0 +1,34 @@
+{
+  "certId": "296f8e46-d2e4-40a4-a536-bcfce228be28",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "296f8e46-d2e4-40a4-a536-bcfce228be28",
+    "title": "หมดเวลาโปรโมชั่น",
+    "artistName": "",
+    "userId": 11
+  },
+  "hash": {
+    "wav_sha256": "4050367bafbc60a6fa8118774da137b4e8aa5157d7cd40e7fae24b2b421f0084",
+    "mp3_sha256": "52c7955b6282ddba7b0533ae7270e351f5cc20bb8b648ec7590d3106c5ff5680"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T10:30:58Z",
+    "releasedAt": "2025-10-01T10:31:10Z",
+    "issuedAt": "2025-10-01T10:31:10Z"
+  },
+  "storage": {
+    "fileKey": "users/11/projects/23/releases/296f8e46-d2e4-40a4-a536-bcfce228be28.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/296f8e46-d2e4-40a4-a536-bcfce228be28",
+    "github": {
+      "path": "2025/10/296f8e46-d2e4-40a4-a536-bcfce228be28.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "oSgPnyRzE636b7Pmy3ZtnSph9XuyGGcMJC6ru0jb3wRbpHYAKoAVJdk519jpKT8BeVVQXPXBhbR3QvUOcfdalzcxDOL0+pSCnPgP+YPG7G16MoSKebYKhJvNoes/EayJQAhX5VuILvHdnRbeAX1wvex72lB1y7bXwdixWulKEaV67Ph65hXwjiGhiSOFrutDNmV77M43cIxMgq99tqciGSAWRDi8dHsdeEvwzCqFZyJH/sJl2rrMyTpgR3nC9TlNY4jLZLeExwiXSo8rTZ7dHmWnNPwAyfnhE+SbkMdT/YJSMOoWqht/yA8zjLCEtGzEQ8r0k/2U/Lqz5oQIDE+jLQ=="
+  },
+  "status": "valid"
+}
