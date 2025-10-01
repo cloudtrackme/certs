@@ -1,0 +1,34 @@
+{
+  "certId": "ce102ead-fa5f-47d9-9e4b-4d1bbbcb7d96",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "ce102ead-fa5f-47d9-9e4b-4d1bbbcb7d96",
+    "title": "หัวใจไม่ใช่เหล็ก",
+    "artistName": "GIGS",
+    "userId": 27
+  },
+  "hash": {
+    "wav_sha256": "3cf7d8896b4e0f1eda5c9ae9ff2dcc77f773e8e04442347195b4ec9bfbc0861e",
+    "mp3_sha256": "c2fcf8c6f573e50b920ac58bbc70094ad26557c1973105ccb19fdbb284f28890"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T08:53:22Z",
+    "releasedAt": "2025-10-01T08:54:23Z",
+    "issuedAt": "2025-10-01T08:54:23Z"
+  },
+  "storage": {
+    "fileKey": "users/27/projects/92/releases/ce102ead-fa5f-47d9-9e4b-4d1bbbcb7d96.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/ce102ead-fa5f-47d9-9e4b-4d1bbbcb7d96",
+    "github": {
+      "path": "2025/10/ce102ead-fa5f-47d9-9e4b-4d1bbbcb7d96.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "bi0EynrkraTaPnx65xAuOy2ze8ou1qkFqClBzoojyLZn/ESjQBsKTg5mg2AXW4oysemomozPERQJzyB4QIaSFk/VhvPVfrOuBPwDf1tFg2yI2ovrE4MB5eCipYNy56mi0ASaPKNqyDdnkUCKK2+s1jLCgzeYLy9eglHE/ETdETGZUWQtUWjNehCwopqEbxMzz9ZSuo81/G9t7C57kdduiwTP/7Vc0GJGpcQ0GwOCcgurifbtn6Xz07Y12XZ8DmYH/t6R2W8bave1+56IVRrmO7u1XYb5nJxggKwC9nJtMxT/Mc8d/MtL888vZDm0KGhzPnP8NCAiXRL4XTL6y6Nipw=="
+  },
+  "status": "valid"
+}
