@@ -1,0 +1,34 @@
+{
+  "certId": "1083c021-c03d-45d5-bec9-fe48f33ce43b",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "1083c021-c03d-45d5-bec9-fe48f33ce43b",
+    "title": "สัจธรรม",
+    "artistName": "",
+    "userId": 27
+  },
+  "hash": {
+    "wav_sha256": "d7bbff29d8af5afd1541e1dc81a64487211d442f69c4b877a42f9ec5eeb38f7a",
+    "mp3_sha256": "be901d493e85b9e38f582e05e3e229f7faf3521fd1939330a6a32e5bbf2b4042"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T14:48:08Z",
+    "releasedAt": "2025-10-01T14:48:23Z",
+    "issuedAt": "2025-10-01T14:48:23Z"
+  },
+  "storage": {
+    "fileKey": "users/27/projects/95/releases/1083c021-c03d-45d5-bec9-fe48f33ce43b.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/1083c021-c03d-45d5-bec9-fe48f33ce43b",
+    "github": {
+      "path": "2025/10/1083c021-c03d-45d5-bec9-fe48f33ce43b.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "JY8naKg/dGGKV8hpTKMlYfuR17R7YUSmCFrDzpNhPF3AVKiebbkxWJ07dRDRoG01IcQ6jh2TJHlxOYAH/7l6FdxkF5JAJYmgrhKcSV0tW8MG449GYDpO30Gfwo4la2cEA/uSz+E0ZGxb0AfTA1KSXuJrz++KK+ZHio0VsTHbBMqy8koj9shTRuaZ8iwA7YU+0pgOOod1GXs3++H0gZjov5Jm5MGqYwkj1O1dsZQC1DbDvh4owQQPXSa/4g8dgC8rTyRm/2rpaE2xRUzEiuIZMl2CF9hPh7EfHnzZkYsEYA3o6blvs/hbRgWKK8u5feyh8/7c+UtVE04MynpP8QORWg=="
+  },
+  "status": "valid"
+}
