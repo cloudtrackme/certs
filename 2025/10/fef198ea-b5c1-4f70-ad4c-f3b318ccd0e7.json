@@ -1,0 +1,34 @@
+{
+  "certId": "fef198ea-b5c1-4f70-ad4c-f3b318ccd0e7",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "fef198ea-b5c1-4f70-ad4c-f3b318ccd0e7",
+    "title": "Coding Atmosphere",
+    "artistName": "",
+    "userId": 43
+  },
+  "hash": {
+    "wav_sha256": "1c6e8eb123418934ef1e3add158ac3415244d5638580e2ff37d761ebaf7a053c",
+    "mp3_sha256": "6e98710b62523a22d4005ce87db00b5b7243a8caaee216e4d72ed2602f62bfbf"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-01T12:09:23Z",
+    "releasedAt": "2025-10-01T12:09:33Z",
+    "issuedAt": "2025-10-01T12:09:33Z"
+  },
+  "storage": {
+    "fileKey": "users/43/projects/81/releases/fef198ea-b5c1-4f70-ad4c-f3b318ccd0e7.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/fef198ea-b5c1-4f70-ad4c-f3b318ccd0e7",
+    "github": {
+      "path": "2025/10/fef198ea-b5c1-4f70-ad4c-f3b318ccd0e7.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Mq8M06FCSVWuo8m+s+wffPE3UBE8bzY60NRrxZLNvvuvpkroJ8oasbQlOBUh9I2ED+r7qaIwrEvxGSN5w8AOijv/rPS0Pb4EJVot6TnNFpNb5cxcMoC583UfrFS192uaBYKf9Cy1YsXYPedyfWJe6N7E5ND+kuVQi8QZQGKp1N2pKXI0sLRfeCSotqNFkyF1vU1Rw/j3h7jPtil3lPfP+nj3FXsaCfYo0PS7kHy+Ec6pZxUeVWGQ8sNtnhmknDH3zXqehF6DLtnmdtibdpAKaXKcltu7rSJzdS7aakoxdJpOoPxAaGMe+saQ9Mun1f8wvcuEbNxM8Ah0Ab0Hmr39ig=="
+  },
+  "status": "valid"
+}
