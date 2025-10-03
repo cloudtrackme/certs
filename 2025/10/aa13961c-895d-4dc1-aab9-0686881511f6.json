@@ -1,0 +1,34 @@
+{
+  "certId": "aa13961c-895d-4dc1-aab9-0686881511f6",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "aa13961c-895d-4dc1-aab9-0686881511f6",
+    "title": "✨Dil se dil tak - Heart to heart ✨ Hip-hop",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "930f157f8fb4370121a0815e7fb3cffb0390d2b41d83f6f22e243fd50ce3335c",
+    "mp3_sha256": "ad321f620d5ce72eaa2384bd426eec18e311f77769805f69d0ae54ad2e458ab6"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:54:09Z",
+    "releasedAt": "2025-10-03T09:54:15Z",
+    "issuedAt": "2025-10-03T09:54:15Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/46/releases/aa13961c-895d-4dc1-aab9-0686881511f6.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/aa13961c-895d-4dc1-aab9-0686881511f6",
+    "github": {
+      "path": "2025/10/aa13961c-895d-4dc1-aab9-0686881511f6.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "ady1AGbXBqY5CUc7bDEE9GVlJr6THMc43LbzNLeGDidzYT4m0aT6zZXfEGTy9e1sD2Uopmfjik7omD7QOnRkMYmgfGBk6E4BMcR5Bp42MlKeiOjU1jsbQFENLkCPc/X7tka55S0rMa1gYnHr/oSM+SxZbK8CRq3huFf3K3Bh/vznW98Bm2UPOssZRWfgBWqZL5H4s2tfvbIs3BAwiOaBZ7+6fU3zxjyNSWyIZIwlsfK22MvvygPrRaiPoxoi2luFYzGi1j8ec9bTb9bi66B1yvtwOAdDv2u8PE2TTNHLNCUzdtYoNytaR35+/896QfUPcP2BWtgTOLqm7LS0NXZzyA=="
+  },
+  "status": "valid"
+}
