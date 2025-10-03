@@ -1,0 +1,34 @@
+{
+  "certId": "9592ad74-1240-42e2-b9a0-f0ba8af44cb5",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "9592ad74-1240-42e2-b9a0-f0ba8af44cb5",
+    "title": "Fuel my heart - Rap-Rock",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "eba35181262cd2c9babb6d161b9dfddaf50bbc75e69c480a6d7dd8fa0af7bbb3",
+    "mp3_sha256": "0be4395f135333ecbb5edf8a7f4672e76b7fd2f5f4a961f18e47f2dd54ab33cd"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:55:23Z",
+    "releasedAt": "2025-10-03T09:55:31Z",
+    "issuedAt": "2025-10-03T09:55:31Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/44/releases/9592ad74-1240-42e2-b9a0-f0ba8af44cb5.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/9592ad74-1240-42e2-b9a0-f0ba8af44cb5",
+    "github": {
+      "path": "2025/10/9592ad74-1240-42e2-b9a0-f0ba8af44cb5.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "qBQ/qLadn1DI1peJun2x4IyOcuKWSyo8dRCpQY9/zX5Dpo2pegbJRvcMcecnTKQi+a1yjvLbiDJCaN3l9rtJeqXCX1SyFMM9f+tVmwN1KsLtN0D4xLOkte2YfU3pb9WxcdeQWRj/wyCmpnLa90PdVyvRvszOc/BlZ0AOM0fS7uSgURXLI6/raW3Bmd20b13k6A0d3Jn5dkcuW8xXbPgUYKTKYjg5cLyRmybid+3lGmxqMuIkULHFCcY6a2wd6N8/Zfx/SXQoXqX4UEhAGQMLOuPHEe6hYzDgEwL+qgd4J/8YAEJxgOl2LoHo88tE+SuxtnEZ9OfSt9l0/krDjoRiTw=="
+  },
+  "status": "valid"
+}
