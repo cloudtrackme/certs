@@ -1,0 +1,34 @@
+{
+  "certId": "4e24c305-649d-4700-b23d-d4d8bc0cd554",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "4e24c305-649d-4700-b23d-d4d8bc0cd554",
+    "title": "Sweet Thai Angle - Dance",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "bf0d4700aafb99deeb7a35445a53fd312da2034dd2d18a9ebbf10c0f85fa521d",
+    "mp3_sha256": "c8fe535219969e1d30fd1868dddd3ddc421bf967d0af99b00a1c8976935999ff"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T01:44:18Z",
+    "releasedAt": "2025-10-03T01:44:27Z",
+    "issuedAt": "2025-10-03T01:44:27Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/19/releases/4e24c305-649d-4700-b23d-d4d8bc0cd554.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/4e24c305-649d-4700-b23d-d4d8bc0cd554",
+    "github": {
+      "path": "2025/10/4e24c305-649d-4700-b23d-d4d8bc0cd554.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "M/0awXyk6L/ftRZqBP8o7uBW1xm9X6IzDy2ExywabicWRzjvZvpZObaJDCa0NUQc6NuUsOc8J6w8RVRv0QpqntrBvnRLVCWcXvBnDC66TQeR/FyxyTaV1+cWCjjkWiOIwhP9RiNLgr5h96V6mDjoHAzUZljSbtDMiI019Oi9VQy+tHnwmbSoEkU4jnIujlxSSBE3SDN9mXViTkP86xVSEpQa4XLs0aFQDqAPXg7zAsDhegGCmtf9/w9I8KZTn/o8BQF7VepB7A9WJ4WMcdui2Gnvzara587XWP4M0WGDjW8EPhf2TMn9GQDyK1Q3MPdTEF9euyLGVFZipM7G7INZzw=="
+  },
+  "status": "valid"
+}
