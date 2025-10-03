@@ -1,0 +1,34 @@
+{
+  "certId": "7a00fb18-d1ac-4fb6-a9f7-83c5688ae745",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "7a00fb18-d1ac-4fb6-a9f7-83c5688ae745",
+    "title": "Bring You Home by Christmas Eve - Contry folk",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "02723bcacb1758951a828dadd1abcb38914ca5fad6ca84ad471266081c6edbaf",
+    "mp3_sha256": "e7233cdfdb4f3c690e9c0a8422f4520f200c71400e5f332f36562d0563b6343b"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T02:26:34Z",
+    "releasedAt": "2025-10-03T02:26:43Z",
+    "issuedAt": "2025-10-03T02:26:43Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/37/releases/7a00fb18-d1ac-4fb6-a9f7-83c5688ae745.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/7a00fb18-d1ac-4fb6-a9f7-83c5688ae745",
+    "github": {
+      "path": "2025/10/7a00fb18-d1ac-4fb6-a9f7-83c5688ae745.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "b0QSrB53Eczo6vl42YPyn5UxKk3NWkFvVtkNI+ianigR6908b7rfWefa3Uf3xC3Uy2w4WrQEg6BNM+LN2XmZ/XnDiSB0nqI8UO8WqPiX5GpLPGv0k8KCzpFBR3UfSQMD5aSI/hiv6O7CxQTnXgmtbDWA+1qN92cnfbuZl8hTlI9H8+1ufPBFE12yG94CIvIfhJatfyQFh9F2x0Tk2LZbK/LczFJ9iIf0HAYj8rpoVnfvn2fPir5e71V7WnwWfr6diZ5UKgd1Q0sAbAdteI7Vwwd36VSVv7jNsEKJL3FRFTpns+b2Gu3RNaFWDqRN0WvRxEvQmS7vTlNiFfLiz31R/w=="
+  },
+  "status": "valid"
+}
