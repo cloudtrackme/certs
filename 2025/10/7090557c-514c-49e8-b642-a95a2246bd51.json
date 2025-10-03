@@ -1,0 +1,34 @@
+{
+  "certId": "7090557c-514c-49e8-b642-a95a2246bd51",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "7090557c-514c-49e8-b642-a95a2246bd51",
+    "title": "Prince of the night",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "d651e48a9c267431f887c70218217a460b5ef4e67ec5589a5bddca578b69194f",
+    "mp3_sha256": "3c439dd677144dd61c80a55dca262af97dd0a7b95d0cc22cf1d807e8676aee17"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T08:15:57Z",
+    "releasedAt": "2025-10-03T08:16:12Z",
+    "issuedAt": "2025-10-03T08:16:12Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/33/releases/7090557c-514c-49e8-b642-a95a2246bd51.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/7090557c-514c-49e8-b642-a95a2246bd51",
+    "github": {
+      "path": "2025/10/7090557c-514c-49e8-b642-a95a2246bd51.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "HlDVk/kZkOO/hC9uBuX1gt133hR4p4/o3Ou/3LuoXtrTzmsqfmp5kgIZDSMOGPJ6h61CJjfaD0/UNGq3Sq1QLYqzcva6iUnmkT0Lla+9mWReWnZPYrYUTGqTSnCZyHsYBoZ3lqMJzA07+KP6BQoDtL5Rqlb5WeC+JI1ApSQRwRkqVOPIgC5w4R9cFuHSHQGzvgdoG7nd2B7j4qbZeIOgyl6t7qtxeGGfQiIlUVjmSAKmNkS34Ev/ro9/oMRXcYBAwuXsGY4Uw1rEZuO3VeU4POPpiAXJ3T3wrJGc4iwC0Cri1S+9RKcUk/8unNWT/KQly2ZFj4RJg2zaH+FgFNChqQ=="
+  },
+  "status": "valid"
+}
