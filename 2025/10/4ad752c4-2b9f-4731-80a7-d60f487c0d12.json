@@ -1,0 +1,34 @@
+{
+  "certId": "4ad752c4-2b9f-4731-80a7-d60f487c0d12",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "4ad752c4-2b9f-4731-80a7-d60f487c0d12",
+    "title": "🎸 Friday’s Heaven",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "09b830b0cfbfef46dc7d9a5c99e155f5c76d1165f87a0a89e9a5626e7a1f45a0",
+    "mp3_sha256": "2d4174cfdfddd3f0808f466fba4bc0262382320e4e929f85f8d36a1a02ebb828"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:58:40Z",
+    "releasedAt": "2025-10-03T09:59:00Z",
+    "issuedAt": "2025-10-03T09:59:01Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/55/releases/4ad752c4-2b9f-4731-80a7-d60f487c0d12.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/4ad752c4-2b9f-4731-80a7-d60f487c0d12",
+    "github": {
+      "path": "2025/10/4ad752c4-2b9f-4731-80a7-d60f487c0d12.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Ht10KB78vcc987vDck+kdLnxmZTq4uOo+3M3BAN4VpsYnJWspG54VWeO06aMYURdthGSfZmzpOiJVoIrxn5y9G9C33DEUkHeeTWMoqjJVF9pdya9uHq3dGScS3Y2DbpNUOW1e5oF4mcrdFfuttz7w8BQEKK6w9LGar7HsHUdaLk021IQn/5n15u/Q91gQEdSzfDNNOhdBzO48KfmzijS5QCx8W9scjVZflS98TfZ1Pmyl6kzFWHGFKyJEI5yxl+BKHNuLKfbUB3FYX5k8qWya57lg6g6i1aRIBeG+B1Zv62c+DAmN/xZ1M5Hrnw8DD9FvznM/5OhpC8Tbz6+njpKkg=="
+  },
+  "status": "valid"
+}
