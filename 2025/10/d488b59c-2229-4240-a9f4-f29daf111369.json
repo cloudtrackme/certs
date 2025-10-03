@@ -1,0 +1,34 @@
+{
+  "certId": "d488b59c-2229-4240-a9f4-f29daf111369",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "d488b59c-2229-4240-a9f4-f29daf111369",
+    "title": "Dream Stage ",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "cb7b3585280841af7fb04696f887f0607f85102dcf9e447a871824c2ec554ae5",
+    "mp3_sha256": "9dd6ac049d7e777a3c9145e8dbc3a6aa4a41297e086d84f6186066f767e9bf29"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T01:38:03Z",
+    "releasedAt": "2025-10-03T01:38:10Z",
+    "issuedAt": "2025-10-03T01:38:10Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/16/releases/d488b59c-2229-4240-a9f4-f29daf111369.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/d488b59c-2229-4240-a9f4-f29daf111369",
+    "github": {
+      "path": "2025/10/d488b59c-2229-4240-a9f4-f29daf111369.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "bmY53w6ohVPlKAjvLsiHesFexDB14RR3rTxdLdIttDbV9pGZH2OIZFR6I4FipPF5j5QfAlr6+zqsKz863i4IbXliGlhXCnpg2yNsTfKxIPvsbla0cjfEhEcnGydYXltNjIccylgLWf3h2xug3rC4Bs3F25WC7KAM0+9m6b7iqub/nT1z8l64djV5Jy6jbh5OI5poEV7c0KTuGSoT3Rvk8htQTNTvi+Z+Efp6UXFUcYrSDC/7wIzHTmma1YICuPRYrr+brWvz2tCIEiwbhU2AswWY7wOMPieHsSF57TEAuu2WA5LOashqIDKJc/3YXdOwDdKYLypDJM3ZjeWhsjc7pg=="
+  },
+  "status": "valid"
+}
