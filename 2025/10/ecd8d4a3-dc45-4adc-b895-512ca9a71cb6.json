@@ -1,0 +1,34 @@
+{
+  "certId": "ecd8d4a3-dc45-4adc-b895-512ca9a71cb6",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "ecd8d4a3-dc45-4adc-b895-512ca9a71cb6",
+    "title": "Land of smile",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "848887db7997eb7c623ad043aa468837af81afa1c613717d42f087795cc9700e",
+    "mp3_sha256": "67a47601bb6cebcc753af78d8194733212f1170a31a211cc25a5522ed5652809"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:48:18Z",
+    "releasedAt": "2025-10-03T09:48:28Z",
+    "issuedAt": "2025-10-03T09:48:28Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/21/releases/ecd8d4a3-dc45-4adc-b895-512ca9a71cb6.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/ecd8d4a3-dc45-4adc-b895-512ca9a71cb6",
+    "github": {
+      "path": "2025/10/ecd8d4a3-dc45-4adc-b895-512ca9a71cb6.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "lSjy3FLYwt8JlMDaIRLmtWazUmPaZV0TwnM4YXIheI2vKIKNaagbCGRZ/dHq1Aq0Bv9okD2P6coGsvNboMXoFcd/mzEahZAWbJlSO3FKe8BD1+5aNV/hGc90yRN89g2KoE3ThQyfE5MvmrW1fLhl+o6RRJhcvbZPyt/4Hip4fO+k+oG8wBtFEdWNpbE5LD5dFTzG9vpKeZZ30OY2wPI5ZGRNp88qIWUzIVHyZEA6cOsqJgn3BgvmuMvRvGC2K8zGBYcv8xNZGiqoGRyufBYoFo7/jtCpYZfRsVNp7x19VAKP9zLvn8K4aXC6sUIUDeyRrh9adfCdiwdj+mPTtHKX9A=="
+  },
+  "status": "valid"
+}
