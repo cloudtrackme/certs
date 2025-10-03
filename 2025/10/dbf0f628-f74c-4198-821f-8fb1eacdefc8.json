@@ -1,0 +1,34 @@
+{
+  "certId": "dbf0f628-f74c-4198-821f-8fb1eacdefc8",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "dbf0f628-f74c-4198-821f-8fb1eacdefc8",
+    "title": "🎵 タイトル（Title）：横断歩道のラブストーリー (Oudan Hodou no Love Story _ Love Story on the Crosswalk)",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "11e4ac27a9770585f64ba1dbf9abb0be5e6a96cac6f20a584a9d7da76a9b82d9",
+    "mp3_sha256": "a5ee738581175a8179271dab620baab66e9fd806a4a2ed79e60c20d899edfee0"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T01:41:51Z",
+    "releasedAt": "2025-10-03T01:42:01Z",
+    "issuedAt": "2025-10-03T01:42:01Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/20/releases/dbf0f628-f74c-4198-821f-8fb1eacdefc8.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/dbf0f628-f74c-4198-821f-8fb1eacdefc8",
+    "github": {
+      "path": "2025/10/dbf0f628-f74c-4198-821f-8fb1eacdefc8.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "pPm3b4O7zWcscSBcni5NHYrjlwjuS5SMJ/WgZ2+7TqRLcACYCuLk43UYchdOe0IDTKMtaUCtXrJZemKqxGXGkzBj8prA9lzF7IE9IM8dbYLBYrzkhYT8UHiZhEXyV8WMPCpPNa5U+1ZYIOjVphe2LUG8aY/9I/FPdtYLGM6cI02GjzojlOwDVqfStmBxfojYQVtSUQ7nn3GpwRQ2ENXOPx+TWAPZ672Y0fVWxnoRAfrZHUCT5fj9B+vXo83EdP5qt10Pe/5ubBBuwwHmxEAzXKSEqEBBv7QO80Ct6pzVt4bjKuvs6r+8bqlGYI17WlJJT8KFL33pu5nHxNSNI39VHQ=="
+  },
+  "status": "valid"
+}
