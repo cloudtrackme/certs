@@ -1,0 +1,34 @@
+{
+  "certId": "015eaae0-0660-4ad8-98e3-827df68e5355",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "015eaae0-0660-4ad8-98e3-827df68e5355",
+    "title": "Mutual sharing - Rap",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "356a697c1583c5aa880773fb1aa743888164b13ab7e2b1e9ef5d17cf48f4ab5c",
+    "mp3_sha256": "1879f8d7538dd7b784726ce27a172d69c7a1dfdef64092379f19363908eb2626"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:51:32Z",
+    "releasedAt": "2025-10-03T09:51:40Z",
+    "issuedAt": "2025-10-03T09:51:40Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/42/releases/015eaae0-0660-4ad8-98e3-827df68e5355.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/015eaae0-0660-4ad8-98e3-827df68e5355",
+    "github": {
+      "path": "2025/10/015eaae0-0660-4ad8-98e3-827df68e5355.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "B6rZ9TjKic4qQzTqiDG5q0V+i5VklE8EUIAgMpEz9Cb/Ppf7APnwys5+vyxSlEr5l/hhz/pszhr5SUTAoRLJ0Bw0XC4VJNa0SyqJTYSgw0IlTQoJYfWSsVLdK+2rr+O0CYiGV7Tk7oZc0zBNtiL3udv9/LSEDNRlDObsEE3atgyo6dU4hT2GV9kTd41QpwrQyaNjCAbz4nhaP5cu9c/Lz9d+M5040brtgP5sYSD/igKkUvdxvzox1twxar4UbyYfXRoUzgeqPV8+6KeS+L7rHmAEZmw+Ck6rwL+IOnUQa80SsnLDChn/1CZ6Uk6ru75fILRV9ObW26hJ7YZHJocOCA=="
+  },
+  "status": "valid"
+}
