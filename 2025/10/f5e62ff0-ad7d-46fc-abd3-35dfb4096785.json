@@ -1,0 +1,34 @@
+{
+  "certId": "f5e62ff0-ad7d-46fc-abd3-35dfb4096785",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "f5e62ff0-ad7d-46fc-abd3-35dfb4096785",
+    "title": "Cello into the love",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "372202f3b1df808f64f75da652cb56ff79bf1413003d0b7e00c558ba6a67c0c6",
+    "mp3_sha256": "6d38d5ebbcdcb96e35fdb915a83ebb64cef1692aaec38b70c89319d4b8d3115f"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T10:04:17Z",
+    "releasedAt": "2025-10-03T10:04:24Z",
+    "issuedAt": "2025-10-03T10:04:24Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/41/releases/f5e62ff0-ad7d-46fc-abd3-35dfb4096785.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/f5e62ff0-ad7d-46fc-abd3-35dfb4096785",
+    "github": {
+      "path": "2025/10/f5e62ff0-ad7d-46fc-abd3-35dfb4096785.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "l2AzG9qPTYwT/KNqfQdIFNUyp7fAWS4MCmMZynJUudGPV2oySLTlA2pa5KUZ5oA7mVNud58yCKAcFdRwO+0QiwBKAWATq3jvW1sRYiAgcYLb2lApyeme196EmoPw6Kl9/Lk5KeIZtOjrYUWfFNgRW2GrZsSIim59E27RDWxrSATPP/oeYwZJHgd83Yck8xgGlwjrk+AAh9USw5lOBWN6kOEN9KpibEZibrOCJ+YCJrtlcmce1Jv3hPI2MHABLL5siSDr88n1WnwpkE3ATgAzX9huTQk5ChvQY9QBB1pNqvJ+LAItBMvqDKtMvcLr+M8Sf1MQ8Xd3BHE3LatQfph4rA=="
+  },
+  "status": "valid"
+}
