@@ -1,0 +1,34 @@
+{
+  "certId": "aafda244-2e14-4a37-b080-92df321b3764",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "aafda244-2e14-4a37-b080-92df321b3764",
+    "title": "Miles from Shore, Close at Heart",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "007c2271c752f181f1a62256cc30725160543820fca129da2c97109a456a6235",
+    "mp3_sha256": "8609de57e811947bcff96848e7c404bb7a03444bcc1ac2dd417241af19a8477d"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:50:31Z",
+    "releasedAt": "2025-10-03T09:50:40Z",
+    "issuedAt": "2025-10-03T09:50:40Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/35/releases/aafda244-2e14-4a37-b080-92df321b3764.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/aafda244-2e14-4a37-b080-92df321b3764",
+    "github": {
+      "path": "2025/10/aafda244-2e14-4a37-b080-92df321b3764.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "QCjkE3pnuaImYFcbVXNq+0qmwzho5pcsLi/Swv1zxoFUDldJEHKRRAjIFzFnnn6DWHXOWed54ORtneFr1qmFQWA5l1UtRXruzlteYs13J0Q8F0j2by/AVFd/gRQehFf4l4JAJXJCr1QwmpQMO35CBvaeO0FSmHviiC1FuQ85UqAZMKeazMQZv39Tle32Oj3VHn0WhtrNsz69Cc7KrCuzW880tr4nJ3t3AuLkwaxEO8T1vhc9HZzaaq6tx6TvnhGHYJfB6ekEpUYCqrf/xojXjSnoDHMGgFnFwIXxpB2ryEaAh6lZQuZxu2Tekf/T8psxPkvgguh2Ff0eXOsvXXLTnA=="
+  },
+  "status": "valid"
+}
