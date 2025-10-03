@@ -1,0 +1,34 @@
+{
+  "certId": "8efb763d-c5ef-4bf4-b216-7a5fc933dc13",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "8efb763d-c5ef-4bf4-b216-7a5fc933dc13",
+    "title": "Dil se chillaa - Metal -Rap",
+    "artistName": "",
+    "userId": 30
+  },
+  "hash": {
+    "wav_sha256": "a786d56eed4a39b2a8c3626e74c3ed28735f4845f2e3d57b01d84a38ea3d9e55",
+    "mp3_sha256": "9e7fe09639bac4c6d151cddd9b5f5c618f13b0c4b80d39b2af429dccd09155df"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-10-03T09:56:13Z",
+    "releasedAt": "2025-10-03T09:56:20Z",
+    "issuedAt": "2025-10-03T09:56:20Z"
+  },
+  "storage": {
+    "fileKey": "users/30/projects/48/releases/8efb763d-c5ef-4bf4-b216-7a5fc933dc13.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/8efb763d-c5ef-4bf4-b216-7a5fc933dc13",
+    "github": {
+      "path": "2025/10/8efb763d-c5ef-4bf4-b216-7a5fc933dc13.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "VaJ3bioD6o/RhT0IlBhJWBI1Li9P6bk+K9F1wdf2MFKn4de74szfhO9UzxxgIyjh/A6ZB7RSdYtWajEBR9boeIxHD0R0lQWj9/LGJubiDjjMQzETOCh/gtyRV7fFuh3zIp9Vtc9BW2IQKVcQI2iNKFNBYFt6YvPGIH7EIODBaCNYrWvCXpIWd7I1COK1Dqw/sFJ+9pGoZBpC55FSlUDkAsScGYljCzYRRlm38mFMI81A+PeqMKtw7Vg17ASXaU87AZALL0UCVE+u5C5sx3EtXRyuMqKppptYmk0r0Ic5zmAvXwPOEMQStFSHnqvnygleQNn6a5xWRqMum/CA5nUPog=="
+  },
+  "status": "valid"
+}
