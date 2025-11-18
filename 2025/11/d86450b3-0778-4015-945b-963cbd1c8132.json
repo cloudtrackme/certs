@@ -1,0 +1,34 @@
+{
+  "certId": "d86450b3-0778-4015-945b-963cbd1c8132",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "d86450b3-0778-4015-945b-963cbd1c8132",
+    "title": "หัวใจไม่ใช่เหล็ก",
+    "artistName": "",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "14f75acbb80a97add880a13d290e8634923362beb8b60730c470336aedcec047",
+    "mp3_sha256": "81900fb8ebaa6af2240990ee9b2330bbbde003e9b7afc7e68bb47d905be64f92"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-11-18T09:35:44Z",
+    "releasedAt": "2025-11-18T09:35:54Z",
+    "issuedAt": "2025-11-18T09:35:54Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/36/releases/d86450b3-0778-4015-945b-963cbd1c8132.mp3"
+  },
+  "verify": {
+    "url": "https://dev.cloudtrack.me/verify/d86450b3-0778-4015-945b-963cbd1c8132",
+    "github": {
+      "path": "2025/11/d86450b3-0778-4015-945b-963cbd1c8132.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "fNgVrqGqg9QNTy/9vEi7PfZyJqeEMvvxCFkkY9VDm1EMAwRCZ1fYU15UgDV0Uheh4L1U0mUghA6jYgJr4xh6n7xs+QrXemYbUxHgPWHDAR5K2y6ELqf2o2ktpUOrVVLlH9nyogxqC6sArmGp7O5Bpzbh0xmoHagbPRekIgQVPJ+hFn03T77TkzV+cg4OF+aZ2kvfmGAJQkom3LXqHPf6gv72ZLhMt2ecdJ2Jt2yVheYRiaADbtwZF6cPpvXSDuXNhFejng89O6KRmxxC6C6WWnBNAC2xt8Sa4H2KevGSK+uoarONS+2YtjprRaPWsoB0KxBrRCQxM4xiz1wYrcs85g=="
+  },
+  "status": "valid"
+}
