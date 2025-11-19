@@ -1,0 +1,34 @@
+{
+  "certId": "182c3a31-9a74-4563-9b23-975670dd638d",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "182c3a31-9a74-4563-9b23-975670dd638d",
+    "title": "แค่ได้รักเธอ",
+    "artistName": "",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "65c5752a7a7c4bcd2f5f555e1d1f9932df2a15f59458900a5f9d277953dcbd84",
+    "mp3_sha256": "9f4721576d7ad1b683bd45d8cf20e61bd0e1f1c9ca6f9a43a610c2b20e454013"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-11-19T11:00:41Z",
+    "releasedAt": "2025-11-19T11:00:49Z",
+    "issuedAt": "2025-11-19T11:00:49Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/37/releases/182c3a31-9a74-4563-9b23-975670dd638d.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/182c3a31-9a74-4563-9b23-975670dd638d",
+    "github": {
+      "path": "2025/11/182c3a31-9a74-4563-9b23-975670dd638d.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Z5CDjinqEVzUBxbcjGnWSNH+Zf7BwXSOEMt0wQHzOFLkq8WFrBZ4INiz10f2Byt9CGvKTLr+QIHGY9xcu5pWkr8Uwlv/iJkm0Ule0mgUnEjgmnYKaQFMCh+mciS0+fIJ6TYWPSADhR0wx97Jq9obk1255FjgOeDF2KLuckVrDrZ2afggIgetOE7qJBR+zsxPkxy2dg6bj31LG3Zizkyz44FDzP7FpyPA9OWuQv1KxCRkSDfxxaQ2Q/wtRRnKcwVfiffLxMFpiHMp0KycESMCeo8oPwqHQbkhsWU1GESA4+knS7Zt6B0Ay3+ax3hALYBOkiBlyFshw7HVvzIoJfitXQ=="
+  },
+  "status": "valid"
+}
