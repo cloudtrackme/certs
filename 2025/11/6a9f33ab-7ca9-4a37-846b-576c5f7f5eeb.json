@@ -1,0 +1,34 @@
+{
+  "certId": "6a9f33ab-7ca9-4a37-846b-576c5f7f5eeb",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "6a9f33ab-7ca9-4a37-846b-576c5f7f5eeb",
+    "title": "ชีวิตนี้เกิดมาเพื่อเธอ",
+    "artistName": "Gigs",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "b2774de489e436554372638c0ccb43805b0f4fd7421a21ea96c78205a5c57e98",
+    "mp3_sha256": "0fa84b7e6a62ff533f5670cce6d321627ad058d1792164d3e7a173556ae35449"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-11-21T03:52:19Z",
+    "releasedAt": "2025-11-21T03:52:22Z",
+    "issuedAt": "2025-11-21T03:52:22Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/40/releases/6a9f33ab-7ca9-4a37-846b-576c5f7f5eeb.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/6a9f33ab-7ca9-4a37-846b-576c5f7f5eeb",
+    "github": {
+      "path": "2025/11/6a9f33ab-7ca9-4a37-846b-576c5f7f5eeb.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "eXBrNc2+ROmYZVmV7A8uU+LeGKgP4k4m7Gih2J0LrgkiqnwKXGzI8n/h2xw3I3+80fB1zMNV9rowe6GjTglA3h2LcWn25wq+I6CGpDv7sq7I1bNUMHL7m0N/SvVa4bfTaMSXNj0t9YNSUToeWrgoJW6JDXO9qBNBtvo6GbEh9ciE+96+ywrjm+nzwRPTMaDATsChdA5GW73w4Fl2RJSLr6wtJqTvqAb5GARuGJoRQ8bLkV7NinXf9ag0+7dVQzomj9gc9rmtx+0O1qfyaYS0lJvNEJTt5y7fCiEux2xN1R0HjcFiujQqkH29jDGj7WS5L7zfS7+h3flwT6lzU+MZKQ=="
+  },
+  "status": "valid"
+}
