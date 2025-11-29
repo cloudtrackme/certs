@@ -1,0 +1,34 @@
+{
+  "certId": "470795e0-3cb0-46ff-8b65-ff9d3e1af225",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "470795e0-3cb0-46ff-8b65-ff9d3e1af225",
+    "title": "Test",
+    "artistName": "",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "7b3b0235967ce1e6702b3a49c919861f15fab62b746a0a13b14aa47899449c1a",
+    "mp3_sha256": "83a19c340d72bad0f6b9fb3460e643fa7ecb3e075f42ca41a334fd74eab603f7"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-11-29T11:42:19Z",
+    "releasedAt": "2025-11-29T11:42:24Z",
+    "issuedAt": "2025-11-29T11:42:24Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/42/releases/470795e0-3cb0-46ff-8b65-ff9d3e1af225.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/470795e0-3cb0-46ff-8b65-ff9d3e1af225",
+    "github": {
+      "path": "2025/11/470795e0-3cb0-46ff-8b65-ff9d3e1af225.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "CHhORNkZM5OhLlh3wlCncCGZrR+8ZqF0oB4yBUbBs/MQjVG7i1u+KUCmz1U39Or4scxi1RSONPZ2jMdJ36lBZfnu58iWgaVfZzYyAlIJb+pQaE6dENA9qxocztOO1Cekou/wlhgwKaME1vaCUQRM/K3Px2IuAaXYE/V1LgSmN1id7qv5W15yswMAs0rzwXE0aTS3qai5qxvRVra3nkmzjq39SGFaHnkgFjVRMRjN+cG5jOXE+tkauLEADJR1as5s3ET+CJhYou8wOouh3YG3nrQEyJYR2SNsyb59TY0mLDqJJJtXu56X5BjnOYFieShFpNibToWuJmZDsRP2b/lYPw=="
+  },
+  "status": "valid"
+}
