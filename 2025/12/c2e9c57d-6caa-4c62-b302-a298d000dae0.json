@@ -1,0 +1,34 @@
+{
+  "certId": "c2e9c57d-6caa-4c62-b302-a298d000dae0",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "c2e9c57d-6caa-4c62-b302-a298d000dae0",
+    "title": "ตราบใดที่ฉันยังอยู่ เธอจะถูกรักเสมอ",
+    "artistName": "Gigs",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "77cca01d452cc44bd401f1ccd321dcad7d3b88c86a6d8f06290d04936cc04413",
+    "mp3_sha256": "8088fdcf11cfe04c3f71701e09db1dd82bdc3119b6a03618adc496c66adf028f"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-16T15:58:23Z",
+    "releasedAt": "2025-12-16T15:58:30Z",
+    "issuedAt": "2025-12-16T15:58:30Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/44/releases/c2e9c57d-6caa-4c62-b302-a298d000dae0.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/c2e9c57d-6caa-4c62-b302-a298d000dae0",
+    "github": {
+      "path": "2025/12/c2e9c57d-6caa-4c62-b302-a298d000dae0.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "EDJ4xRmbj5A5R1H/EFpnXok15QrZXD4gOVZFAhp18L1XHCc0zpCgZklz4fbrZ27Pke6GzBlTpVm4LWtG2UWhek/d9BULyFMgYj6jFh6ZdbSuaUdedozmWSbcg6oUeyER8na1eX2LsV1Fj2XGHyAtH+krscj3pM/hsgBQM8KUyl/DcqQTnAyF+fQNw2kx9Ab8ZDxO2oNc30fysSqP0x+3VE3J09hgqp/ghUSeXAGGZsHV2fj1Vu8zgddQ/d15V9zB/mvZgGIHVLoVwoNfAi/1elifRBCSIvFIEcD+93Mz/AF191YFuooizlIYvs+dItYfOXuX7RVknKEEY+6UAdXYsQ=="
+  },
+  "status": "valid"
+}
