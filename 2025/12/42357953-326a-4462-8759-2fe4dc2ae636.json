@@ -1,0 +1,34 @@
+{
+  "certId": "42357953-326a-4462-8759-2fe4dc2ae636",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "42357953-326a-4462-8759-2fe4dc2ae636",
+    "title": "ไม่มีธงรอ",
+    "artistName": "",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "402d9d6ae8471d5d9370e711282218ab17816b3843b6c5df96f2829dcde9d725",
+    "mp3_sha256": "2f995bdd3d47f5edf2577dab3fe11ae424b5dbb2d2010a4cb587470b8cb533a1"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-17T15:11:39Z",
+    "releasedAt": "2025-12-17T15:11:45Z",
+    "issuedAt": "2025-12-17T15:11:45Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/46/releases/42357953-326a-4462-8759-2fe4dc2ae636.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/42357953-326a-4462-8759-2fe4dc2ae636",
+    "github": {
+      "path": "2025/12/42357953-326a-4462-8759-2fe4dc2ae636.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "boZ+nvNpgNPvYLnu0QgxHIcv6D07b2mQTxNkiPltd/PxqZqbUcGLcccDp1fJsRs2IzIPTsyuNh8ezyZSjE8aE+JcPjkUTW96V7onPWNrOYDJ7fgyj7hvJhTDhvAly9EEZ6q1BqsTEJICMI+d8vZkTtFdp0iuielvwrqhVNriJfFhGtPQCBdr7nbLhD4ip0zu4vd3p1IoYkL7T1iI0NSSbx5+nvs4J5NbAXwYAQCoz83GyV+/wm7JssQ6RKQUpL7EjUkZ9FTUbvkg/GKucBcTtak4YO5jhf1tRv7tMJle0aqpzFseQfe7U3cFqyS/RSZpQpNhwV+ZaTK9vjjFKl47Ow=="
+  },
+  "status": "valid"
+}
