@@ -1,0 +1,34 @@
+{
+  "certId": "17f24b1a-f2fb-46a7-8f21-e37004c45e09",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "17f24b1a-f2fb-46a7-8f21-e37004c45e09",
+    "title": "สัจจะธรรม",
+    "artistName": "Tum",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "934f1f12ffe895ea0b0842649ceef204f788af2b0bf403eea1b4a8bce5380e94",
+    "mp3_sha256": "1b59d36351e35c7853c2bba0df24f13dda31b232ce41e2a02e6c07b6ff3a34b4"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-18T11:17:47Z",
+    "releasedAt": "2025-12-18T11:17:56Z",
+    "issuedAt": "2025-12-18T11:17:56Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/48/releases/17f24b1a-f2fb-46a7-8f21-e37004c45e09.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/17f24b1a-f2fb-46a7-8f21-e37004c45e09",
+    "github": {
+      "path": "2025/12/17f24b1a-f2fb-46a7-8f21-e37004c45e09.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Hq5chaXHhrqG1J0EKIoCAYpd2wzOp1VyyFZ+7H7TplmydaOuiSgnzU24fLVLozislHHRkgq4rC/tFwjU2nEC7v9844mqAWGJD418XG2KpFaWoVTu56OswwDwFHbOaqTm/hvVLVqwly1ARBT32aDrc17y5VZFxSJUmjtD4x+Keu4M5gaAO6/hRHWNKJ35MpHjyI9ly3XTKJ7AjQgp+bVzlSFxYxhzlh4XM2VLkeiI8jS4ixSfmqsVSOH2DhwdOQqVeTXcSpLIcAch7J1W9/pHMdETrxMapCIgWu8AduS59qlx6kxcwuPmrIgv7tNWcWSgFZJjx6ySQfbfr/4PISyKAg=="
+  },
+  "status": "valid"
+}
