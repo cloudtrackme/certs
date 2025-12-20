@@ -1,0 +1,34 @@
+{
+  "certId": "71a7eaf5-c63c-43ba-a95f-e95aba6059f7",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "71a7eaf5-c63c-43ba-a95f-e95aba6059f7",
+    "title": "มันไม่ง่าย",
+    "artistName": "Gigs",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "25cf5ce488b689b05b05f981b6bfcc947c795a7ad4b4367d81806dd5b68cc3a3",
+    "mp3_sha256": "ff45124f3b09205050831db6b57debf4ed06c19c638644832f2ef97f4e6bd979"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-20T01:10:32Z",
+    "releasedAt": "2025-12-20T01:10:40Z",
+    "issuedAt": "2025-12-20T01:10:40Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/49/releases/71a7eaf5-c63c-43ba-a95f-e95aba6059f7.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/71a7eaf5-c63c-43ba-a95f-e95aba6059f7",
+    "github": {
+      "path": "2025/12/71a7eaf5-c63c-43ba-a95f-e95aba6059f7.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "ju6PiQxF9HsIUEsdTU2XIHEygPsCXt7gM34SI8v2g/AVLTodrl+npk1USUL96qU0Vqa5zHPH71UDY0cLAfTbR64KAYR2uTITx65h3XWATDIZ+2pWmM7D3si2dBRVAkPhHEkpXi4WPo6LGMpGmIfnbKsDj3/SMiXAzky4/eN2fjtfopww3jB2HBNUDIenz/zF2W+6Y1LMIoVgNOsRQKLerWKZf9KU25WQsY3oXvk+OwOFYPmgySqJbXU3D3YrgSTTSP5BKSVv3g+Qp/y/fzPP7bSHVwOKSEF3MjN1cxqCqn7IyyRjMKsByhPipHf83BI93hx2hDLAF1ZX36Fjj27yJg=="
+  },
+  "status": "valid"
+}
