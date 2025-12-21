@@ -1,0 +1,34 @@
+{
+  "certId": "fd26c2cb-bbfc-4f3c-b2bd-b0861de9f5f2",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "fd26c2cb-bbfc-4f3c-b2bd-b0861de9f5f2",
+    "title": "สิ้นปีไม่มี Bonus",
+    "artistName": "PEP",
+    "userId": 129
+  },
+  "hash": {
+    "wav_sha256": "f7b01f9330eccb729848aa2e3a3aaf0369616adb4a519a3f80a5978ba765acb3",
+    "mp3_sha256": "61ca373a4b68b27be3618b78eb32acc9f56b493f973576c92b63f7f550220612"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-21T06:44:08Z",
+    "releasedAt": "2025-12-21T06:44:16Z",
+    "issuedAt": "2025-12-21T06:44:16Z"
+  },
+  "storage": {
+    "fileKey": "users/129/projects/52/releases/fd26c2cb-bbfc-4f3c-b2bd-b0861de9f5f2.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/fd26c2cb-bbfc-4f3c-b2bd-b0861de9f5f2",
+    "github": {
+      "path": "2025/12/fd26c2cb-bbfc-4f3c-b2bd-b0861de9f5f2.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "Pee6fFkk0vN0ciPVI+J5F/a0zW4Et1nw+UxQZX02PQ7HrIsMmNQKl3F3BACqCngKx7C//vJsLFnki67vAQX16KJPd2g72M9p0mvnDfttpgKbAHUts0hPPPzCMKVmIMhsnYqadpOcsyuBNlX6Vp0L9X//Y411ntORUNi+yoLXQgbpa3dxxA2v1eUlrQ17TSiRiqUuUIitcHvL6ng0JFjFqbAFGdBGyAutq566V7b/oaAg/gSK9hPVxC+xPVZlDp9zdaRG91VI+Y6sNkel/h0pQJ9XYhgaRUvXvoCWn6HoUKups4P3yhWF0wmWdFgvaiswm+dU4pWIAAAfHuoKYx5naQ=="
+  },
+  "status": "valid"
+}
