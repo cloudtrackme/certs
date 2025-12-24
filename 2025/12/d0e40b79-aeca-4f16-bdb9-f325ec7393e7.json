@@ -1,0 +1,34 @@
+{
+  "certId": "d0e40b79-aeca-4f16-bdb9-f325ec7393e7",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "d0e40b79-aeca-4f16-bdb9-f325ec7393e7",
+    "title": "ขยับเข้าใกล้หัวใจ",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "52f4a74ffe5da110c18f8154f0e95fcb67bd1c1fbf9af2adca7cb32901e3dd4a",
+    "mp3_sha256": "6a654f9698f93966a5dce8b82bcefbdc14e40ef2367041b87cb4f3e2a19d480b"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-24T15:35:43Z",
+    "releasedAt": "2025-12-24T15:35:51Z",
+    "issuedAt": "2025-12-24T15:35:51Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/54/releases/d0e40b79-aeca-4f16-bdb9-f325ec7393e7.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/d0e40b79-aeca-4f16-bdb9-f325ec7393e7",
+    "github": {
+      "path": "2025/12/d0e40b79-aeca-4f16-bdb9-f325ec7393e7.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "n6ER+HtSwqjt+PpY2X7NvppB7DMHpcCf8XjUWxWPPVkO/B6rNblJtEo6bm5hTXYh+mQ0J1kz2FatGks/xM87SdRmtc94iNQuABu7GHErbPXCKYC9Sb1CchnL2JYZ/GVJKDiWt9wsUltTcclaxqARbfehrpr4QQS/v0n5/e24uhX03c9PGyapmcBSTiWXQTJ85ptpdJScYOJHBSSRroJfDrV1xmUZV8J+tdpjASdl88i40WBF+8BlLVAcpPrbipn9NPSEAEC9vqxemNWNhVHH1RotnQcRJYqf5WxPKgKCibn4Whew7uUFOlj0OVtsyFIlw686/mpxFrGMaDsJezMoIw=="
+  },
+  "status": "valid"
+}
