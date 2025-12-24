@@ -1,0 +1,34 @@
+{
+  "certId": "abd675c7-e97e-40a9-a5fb-f15ed17334ed",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "abd675c7-e97e-40a9-a5fb-f15ed17334ed",
+    "title": "เลือดไทยไม่ยอมถอย",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "17e5a306591dfd502be600ede2e585b58bef7be4bc1e49610fa3611ae838126b",
+    "mp3_sha256": "c6cf81a8745cef5b5522ea3241542081df0a3e89b0a02623d991cac70496fa7a"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-24T16:12:04Z",
+    "releasedAt": "2025-12-24T16:12:09Z",
+    "issuedAt": "2025-12-24T16:12:09Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/55/releases/abd675c7-e97e-40a9-a5fb-f15ed17334ed.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/abd675c7-e97e-40a9-a5fb-f15ed17334ed",
+    "github": {
+      "path": "2025/12/abd675c7-e97e-40a9-a5fb-f15ed17334ed.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "ZGWXieQgpdAyO3/YUmZPJvZdmH5KAg5IGlwWb2kWfyGcHLRSzCiH+YGL+h5eZeYwlMwcUGpJwUpWrSohM40CgiXTsjcxlqKe3UYKAj1n5D94RLYNriGge7elFHIqGI2GoKqKgkFjf9TXu08KZQ1EKydiSdEtuoM26VpAPROU4eVo4NDmrn4InEecuvDbxH5E4DrvSVh252ka8u+KftsRF9cV3kqV53I9Fa5zpK4Y8mq/cUJMpsbOa0F6lb0r85NM4XzS0sw74SvDW9D0LY5PuXfywvGjtFH8s8656JSeatjPw8Cv8o6KCCxtsr9JUrjl6zz89c5ysXaMSHNjAIDx0Q=="
+  },
+  "status": "valid"
+}
