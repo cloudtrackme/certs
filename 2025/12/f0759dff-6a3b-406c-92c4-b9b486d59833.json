@@ -1,0 +1,34 @@
+{
+  "certId": "f0759dff-6a3b-406c-92c4-b9b486d59833",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "f0759dff-6a3b-406c-92c4-b9b486d59833",
+    "title": "คำว่ารักใช้แค่กับเธอ",
+    "artistName": "",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "565d791d78dd0b305230191660a2157c843fabdde88ee92293131f2394c511c8",
+    "mp3_sha256": "3e0e4ed8109c77765fa9b8fe6ba19d51ede2a9e107ba51c84b653089840e8ad6"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-24T14:39:18Z",
+    "releasedAt": "2025-12-24T14:39:24Z",
+    "issuedAt": "2025-12-24T14:39:24Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/53/releases/f0759dff-6a3b-406c-92c4-b9b486d59833.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/f0759dff-6a3b-406c-92c4-b9b486d59833",
+    "github": {
+      "path": "2025/12/f0759dff-6a3b-406c-92c4-b9b486d59833.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "S+GHqevcAi82QTRASxzPaEImgjknlYf1CkT4KS9nlV5WcjGlA+2b9+x/17SapSThixZJYd03tvki7JztragXdkeuBP3y/+DDizsnwmpVxZzIA0m0u6eJa/npZwAUUTqL9TE7ZmCHT0Sh0MZjWpSvRT62CNCBapfgFNpdB28POFy7lVnvUK4Nh3D3Nb4+Ql2rROh5h7w6LMO6na2O8zt3dIiTX1d6lBSMkoL0MSs97SSj60tgXZ/n7LUpVzBNOzKVWhbrNybfY/ik7RAlVsYQ7W4sMePVEblZrRZQfNYl/aWHydcsXFrsOl/HOORgy4PlmigfOAORQb8soyBNH2u02A=="
+  },
+  "status": "valid"
+}
