@@ -1,0 +1,34 @@
+{
+  "certId": "b28033d2-1d98-47ea-9ee8-5c652889e77f",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "b28033d2-1d98-47ea-9ee8-5c652889e77f",
+    "title": "I’m Still the Same",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "481fce7f8ed1014b3903255a9dbd47ed8cefb0a9332fb66dea7ef4fae557784c",
+    "mp3_sha256": "8532b2e68adb8a423b74cc2e102d3f7d30bc42ed3f892466ba7f65d2d761511d"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-25T13:00:40Z",
+    "releasedAt": "2025-12-25T13:00:46Z",
+    "issuedAt": "2025-12-25T13:00:46Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/58/releases/b28033d2-1d98-47ea-9ee8-5c652889e77f.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/b28033d2-1d98-47ea-9ee8-5c652889e77f",
+    "github": {
+      "path": "2025/12/b28033d2-1d98-47ea-9ee8-5c652889e77f.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "T8hMhfv546jGHiF+KlaHu5Nu44+t//NyLIxzbu5SJpV/WDHGYtKcTmJXK+1UQHhbUIVp1OEzKlxBUcbB3Oge/HUg69ATpqJq5f3xmKkLZA1lXUp5n0SxRjnUUCXcLqS1wXx5eQTwlig6W/0DhJMHyzsnaHSJeH9flXYXuZDZ+XC93WkVfGJyBSleiQHLb6UlVr1COUrff0mZWXCBBZI9y6/ojhEoQ5BhAuoLoOhLcO8mIf5UtaMKbjZ1OdSMpSHZ4eUstiNdRpchH0u9xqO8Am+DtIwSQVQeB/oFOm5K01YNIeFZV6xN+4K8inko5GH+GYzeDZdEj61QXxxqj+/fgQ=="
+  },
+  "status": "valid"
+}
