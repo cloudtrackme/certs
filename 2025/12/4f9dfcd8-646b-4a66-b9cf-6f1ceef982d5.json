@@ -1,0 +1,34 @@
+{
+  "certId": "4f9dfcd8-646b-4a66-b9cf-6f1ceef982d5",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "4f9dfcd8-646b-4a66-b9cf-6f1ceef982d5",
+    "title": "ฉันยังคงเดิม",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "3c7e71bbbc129c7a3c93fed23a989bb8997fcc69fc9c435086b3a17aec56aa93",
+    "mp3_sha256": "80abf11cf34da40c4286968e94d62daa1815c8487ed4d3f965cda91aac58b370"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-25T12:55:10Z",
+    "releasedAt": "2025-12-25T12:55:18Z",
+    "issuedAt": "2025-12-25T12:55:18Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/57/releases/4f9dfcd8-646b-4a66-b9cf-6f1ceef982d5.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/4f9dfcd8-646b-4a66-b9cf-6f1ceef982d5",
+    "github": {
+      "path": "2025/12/4f9dfcd8-646b-4a66-b9cf-6f1ceef982d5.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "XBHxDPsFfVGgYK0MuVJD9XokzUFzWfrPCQxHvqZ6dxYChwizY4NPUxupbj/3+774ganL+4YIpjgdK2lGMTUW/UZ6/bNopnEzc7DyEnXAQuQ4b4GlU2dqAmm5Slkso2aigEVD79QsfvuY2642CDSNd3cjfiICyY1nR1vqei6HnxCajkjrbM1VlSBOv4G+3TTmHxPoxEmXIuHrecnAHRlmXI9iwhsmQDGYBZ/wh+rvEmWH4nAJjeHBPvcdb9pUVZWUi7nNIztw5VOfGwMBc4ApxdA2dHzc7ovOveSJK/1Q8USQPJbdUsKR8lpkn29mxTd9MTBo+jxFVqLEF0Psh8ZtQg=="
+  },
+  "status": "valid"
+}
