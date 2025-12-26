@@ -1,0 +1,34 @@
+{
+  "certId": "fc389443-d09a-4682-9c38-549d73263b7d",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "fc389443-d09a-4682-9c38-549d73263b7d",
+    "title": "ขอหายไปได้มั้ย",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "a47eb4450dba60a1e68d71446af4fc507d437fb820a15abc6d39d00ad1e7eb1b",
+    "mp3_sha256": "be946f3b5a295a80b6827fae3f60db971f115372848f89169b1d4abd3579cdcf"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-26T02:05:37Z",
+    "releasedAt": "2025-12-26T02:05:42Z",
+    "issuedAt": "2025-12-26T02:05:42Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/59/releases/fc389443-d09a-4682-9c38-549d73263b7d.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/fc389443-d09a-4682-9c38-549d73263b7d",
+    "github": {
+      "path": "2025/12/fc389443-d09a-4682-9c38-549d73263b7d.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "PUByZNJDV1/AFbQulWtXTHf2VTP+GABS26TJKwtxKYhvwbRiYMtZmUlylHR3K8QEapPr0ZrmN4DP90U/dK8g3YSrSAbLqIFYUZ2QMf0sNTphlsDIkLXCxqqVTahXgPhJVkNTgc9d26xIvsVCgMOe3/qSqzrdkgAOreQg7PShFjaxIWYiLKANhDxKD9ciHdWbU73u6bOCB09o7o11+5dA1Sm47gX9LLDpBOsIp/Otr5WwyLUl6qmuIELBBw96sPtGiCZ05ZdgWSQlp8TWrf6J7O+bXrFb/f1AtsvVv8oFYxGzhbD8rICAJIoE0/O3cKy7UM+6j+kf+6v9EB0JMc3Ysw=="
+  },
+  "status": "valid"
+}
