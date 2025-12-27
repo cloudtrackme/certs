@@ -1,0 +1,34 @@
+{
+  "certId": "6df87cc9-7e63-4737-afc0-c9a6163e55b2",
+  "issuer": "CloudTrack",
+  "track": {
+    "uuid": "6df87cc9-7e63-4737-afc0-c9a6163e55b2",
+    "title": "ทิ้งกันตรงนี้",
+    "artistName": "Gigs",
+    "userId": 136
+  },
+  "hash": {
+    "wav_sha256": "ff74023cecdec975ed24ed464533203991a50453ed884b8e6954fcb40f485f06",
+    "mp3_sha256": "fff56ef48762b8cccad88d8a9ab9dead2e18b612991fd9efaff42652444ac3ee"
+  },
+  "timestamps": {
+    "uploadedAt": "2025-12-27T14:10:47Z",
+    "releasedAt": "2025-12-27T14:10:54Z",
+    "issuedAt": "2025-12-27T14:10:54Z"
+  },
+  "storage": {
+    "fileKey": "users/136/projects/60/releases/6df87cc9-7e63-4737-afc0-c9a6163e55b2.mp3"
+  },
+  "verify": {
+    "url": "https://cloudtrack.me/verify/6df87cc9-7e63-4737-afc0-c9a6163e55b2",
+    "github": {
+      "path": "2025/12/6df87cc9-7e63-4737-afc0-c9a6163e55b2.json",
+      "commit": ""
+    }
+  },
+  "signature": {
+    "alg": "RS256",
+    "value": "V+hChEPjMYSi97QjVcXJlNNe4110U6hsCJyfzG50KBipBSdRGAUoKG7gR1zaA3xkSxCBX3JKFv4qzO8SzysYl5h6x8++RCG3RlsFH9V5FkX3Aq3jl6qXhnPuL4/SZjk6H4HRNT/jMRpq2Jw+KCf0alrQ4auCMI+kQdpVYs6xfjxb8dza3LYIOMuICmnEWQjrAMuWPHb3fWApo/jCPPOzgH9Q8VlW9cgjFfBNF6vFuez3qh9JifBHR+45RNNQoMyeCfYIUIiVdYbg5ghMknihMjFm1TR+7d2NS8l19QAzdWAsEFuMesRJ5TcDbNxRq3JraxN57iWtfpAnKI5TPEdwDA=="
+  },
+  "status": "valid"
+}
